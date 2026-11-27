@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-BMU_J20z.js","./index-CBaU_fVf.js","./rolldown-runtime-XKyaHtl9.js","./materials-BSZpLnIK.js","./index-DJq17qc9.css"])))=>i.map(i=>d[i]);
-import{a as e,i as t}from"./index-CBaU_fVf.js";var n=t(`ScreenOrientation`,{web:()=>e(()=>import(`./web-BMU_J20z.js`).then(e=>new e.ScreenOrientationWeb),__vite__mapDeps([0,1,2,3,4]),import.meta.url)});export{n as ScreenOrientation};
